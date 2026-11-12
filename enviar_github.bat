@@ -4,7 +4,7 @@ echo =======================================================
 echo   Enviando Rumo ao Vestibular para o GitHub...
 echo =======================================================
 echo.
-set "PATH=%LOCALAPPDATA%\Programs\Git\cmd;%PATH%"
+set "PATH=C:\Program Files\Git\cmd;%LOCALAPPDATA%\Programs\Git\cmd;%PATH%"
 
 echo 1. Verificando status...
 git status
