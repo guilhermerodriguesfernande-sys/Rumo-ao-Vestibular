@@ -11,8 +11,7 @@ O **Rumo ao Vestibular – Plano Estuda+** é uma aplicação completa voltada p
 Dê um duplo clique no arquivo:
 ```
 iniciar_prototipo.bat
-```
-Ele abrirá o navegador e iniciará o servidor local em: **[http://localhost:5173](http://localhost:5173)**.
+```.
 
 ### Via Terminal:
 ```bash
