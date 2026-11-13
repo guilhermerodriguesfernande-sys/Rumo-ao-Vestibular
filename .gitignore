@@ -33,9 +33,3 @@ logs/
 # Cache
 .cache/
 .parcel-cache/
-
-# Arquivos temporários de build
-public/vendor/babel.min.js
-public/vendor/react.production.min.js
-public/vendor/react-dom.production.min.js
-public/vendor/lucide.min.js
